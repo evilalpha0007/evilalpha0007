@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/evilalpha0007](https://github.com/evilalpha0007)
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Spring Boot and API development**
 
 - 📫 How to reach me **akarandikar33@gmail.com**
 
